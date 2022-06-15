@@ -1,0 +1,68 @@
+id: IDD7C7944
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:36:47.976117'
+last_modified: '2022-06-15T20:36:47.976122'
+parser: null
+source_metadata:
+  title: Amitāyus Series
+  language: bo
+  description: 'Texts related to Amitāyus (tshe dpag med), the Buddha of Boundless
+    Life:'
+  volume:
+    fF8F6:
+      title: 'The Bestowal of Supreme Immortality: A Prayer to the Lineage of Mitrayogin’s
+        White and Red Amitāyus'
+      base_file: fF8F6.txt
+      order: 1
+      parent: Lineage Prayers
+    fD998:
+      title: A Prayer to Amitāyus
+      base_file: fD998.txt
+      order: 2
+      parent: Prayers
+    fB186:
+      title: A Daily Long-Life Practice of Amitāyus
+      base_file: fB186.txt
+      order: 3
+      parent: Sādhanas
+    f8122:
+      title: 'The Sublime Path to Immortality: The Quintessence of Profoundly Secret
+        Pith Instructions on Attaining Vajra Longevity'
+      base_file: f8122.txt
+      order: 4
+      parent: Sādhanas
+    fA95A:
+      title: 'Words of Advice on Accomplishing Immortality: An Extremely Concise Daily
+        Practice Uniting the Short Lineages of Amitāyus and Hayagrīva'
+      base_file: fA95A.txt
+      order: 5
+      parent: Sādhanas
+    f978B:
+      title: Extemporary Practice of Longevity for Oneself or Others
+      base_file: f978B.txt
+      order: 6
+      parent: Sādhanas
+    fCDE3:
+      title: The Dhāraṇī of Amitāyus
+      base_file: fCDE3.txt
+      order: 7
+      parent: Sūtra
+    fAB09:
+      title: The Sūtra of Boundless Life and Wisdom
+      base_file: fAB09.txt
+      order: 8
+      parent: Sūtra
+    fE4F8:
+      title: How to Recite the Dhāraṇīsūtra of Amitāyus
+      base_file: fE4F8.txt
+      order: 9
+      parent: Sūtra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
